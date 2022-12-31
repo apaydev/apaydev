@@ -30,7 +30,7 @@ I'm a freelance mechanical keyboard and electronics designer based in Mexico, wi
 
 ### 📊 Stats
 
-![Arturo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adpenrose&show_icons=true&theme=omni)
+![Arturo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adpenrose&show_icons=true&theme=omni&count_private=true)
 
 #
 
