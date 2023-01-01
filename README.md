@@ -2,7 +2,7 @@
 
 **`Digital and Electronical Craftsman (Developer/PCB designer)`**
 
-I'm a freelance mechanical keyboard and electronics designer based in Mexico, with a deep pasion for programming, mathematics and administration. I'm currently studying Industrial Engineering at UNAM, and I use my spare time to learn programming and develop printed circuit boards for custom mechanical keyboards. I market my products through content published on <a href="https://www.twitch.tv/adpenrose" target="_blank">Twitch</a>, where I show my workflow for the design, programming and testing processes for consumer electronics, and through pictures on <a href="https://www.instagram.com/adepenrose/" target="_blank">Instagram</a>.
+I'm a freelance mechanical keyboard and electronics designer based in Mexico, with a deep pasion for programming, mathematics and administration. I'm currently studying Industrial Engineering at UNAM, and I use my spare time to learn programming and develop printed circuit boards for custom mechanical keyboards. I market my products through content published on [Twitch](https://www.twitch.tv/adpenrose), where I show my workflow for the design, programming and testing processes for consumer electronics, and through pictures on [Instagram](https://www.instagram.com/adepenrose/).
 
    <p align="left">
       <a href="https://www.twitch.tv/adpenrose">
