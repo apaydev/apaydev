@@ -2,15 +2,13 @@
 
 **`Digital and Electronical Craftsman (Developer/PCB designer)`**
 
-I'm a freelance mechanical keyboard and electronics designer based in Mexico, with a deep pasion for programming, mathematics and administration. I'm currently studying Industrial Engineering at UNAM, and I use my spare time to learn programming and develop printed circuit boards for custom mechanical keyboards. I market my products through content published on [Twitch](https://www.twitch.tv/adpenrose), where I show my workflow for the design, programming and testing processes for consumer electronics, and also through pictures on [Instagram](https://www.instagram.com/adepenrose/).
+I'm a freelance mechanical keyboard and electronics designer based in Mexico, with a deep pasion for programming and math. Industrial Engineer graduate @ UNAM, Software Engineer by vocation.
 
    <p align="left">
       <a href="https://www.twitch.tv/adpenrose">
          <img alt="twitch_status" title="Follow me on Twitch" src="https://custom-icon-badges.demolab.com/twitch/status/adpenrose?color=%23815fc0&label=Twitch Status&logo=twitch&logoColor=white&style=for-the-badge&labelColor=6441A5"/></a> 
       <a href="https://github.com/ADPenrose?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/adpenrose?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://medium.com/@adpenrose">
-         <img alt="blog" title="Follow my electronics hardware design-focused blog" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&label=My Blog"/></a>
       <a href="https://portfolio-apaydev.netlify.app">
          <img alt="webpage" title="Check out my portfolio" src="https://custom-icon-badges.demolab.com/badge/webpage-My_Portfolio-green?color=%23CC9900&style=for-the-badge&logo=globe&logoColor=white&labelColor=B38600"/></a> 
    </p>
